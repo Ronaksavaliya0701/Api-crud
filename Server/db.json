@@ -1,0 +1,15 @@
+{
+  "students": [
+    {
+      "fname": "Ronak",
+      "lname": "Savaliya",
+      "email": "",
+      "country": "",
+      "address": "",
+      "city": "",
+      "std": "",
+      "zip": "",
+      "id": 1
+    }
+  ]
+}
